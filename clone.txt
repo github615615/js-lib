@@ -1,0 +1,7 @@
+clone  仓库之后
+直接使用checkout  main
+得到提示
+Switched to a new branch 'main'
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+现在创建这个文件夹并且尝试  将这个文件夹更新到远程仓库中的main分支中
+那么main分支中将有本文件夹和一个readme.md文件
