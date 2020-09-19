@@ -1,0 +1,6 @@
+这个文件夹是在clone了远程仓库之后，修改了main分支。给它添加了一个clone.txt；
+
+现在不对master分支使用git  add .  和 git  push等
+只是对master分支添加了本文件；
+然后转到main分支下的clone.txt。在其中添加一串数字：123456789；
+对main分支进行正常上传流程;查看本文件是否会上传到远程;

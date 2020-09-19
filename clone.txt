@@ -5,3 +5,11 @@ Switched to a new branch 'main'
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 现在创建这个文件夹并且尝试  将这个文件夹更新到远程仓库中的main分支中
 那么main分支中将有本文件夹和一个readme.md文件
+
+
+123456789
+
+
+没有对master分支保存操作；
+它里面的东西在checkout  main之后出现在了main分支里;
+现在对main分支进行正常保存操作；
